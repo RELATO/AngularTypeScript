@@ -1,6 +1,10 @@
 Expense Manager with Angular and TypeScript
 ===============
 
+## Youtube video 
+https://www.youtube.com/watch?v=jlW_0uLy9UU
+
+
 This application was originally written in JavaScript and then converted to
 TypeScript to show how TS can be used in Angular applications.
 
